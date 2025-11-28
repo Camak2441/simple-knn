@@ -1,7 +1,9 @@
 simple-knn
 ---
 
-Description: It compute the **average distance to the nearest neighbors** for a set of 3D points.
+It computes the **average distance to the nearest neighbors** for a set of 3D points.
+
+This fork adds a pyproject.toml so that it can be installed without --no-build-isolation. 
 
 Install:
 ```bash
